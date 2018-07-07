@@ -1,5 +1,5 @@
-# Chat Example
-This application is example of php websocket Ratchet.
+# PHP Websocket Example
+This a chat application example using php websocket Ratchet.
 
 ## Usage
 
