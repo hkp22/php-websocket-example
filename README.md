@@ -18,5 +18,5 @@ php server.php
 ### Step 3:
 Everything is done. Now open this url on your favorite browser.
 ```
-http://example.test/chat.php
+http://example.test/index.html
 ```
